@@ -2,6 +2,8 @@
 
 A console-based interactive math quiz application built in C++ designed to test and improve basic arithmetic skills.
 
+> **Note:** This project is one of my earlier portfolio projects developed during my self-taught programming and C++ learning journey.
+
 ## Features
 - **Customizable Rounds:** Choose how many questions you want to answer per game session.
 - **Difficulty Levels:** Select from Easy, Medium, Hard, or a Mixed random difficulty level.
